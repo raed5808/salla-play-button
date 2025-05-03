@@ -1,0 +1,13 @@
+{
+    "name": "زر متحرك ثلاثي الأبعاد",
+    "description": "زر متحرك بتقنية 3D مبني باستخدام Three.js وGSAP",
+    "thumbnail": "thumbnail.png",
+    "html": "index.html",
+    "css": ["style.css"],
+    "js": ["libs/three.min.js", "libs/gsap.min.js", "script.js"],
+    "inputs": [],
+    "outputs": [],
+    "settings": [],
+    "version": "1.0.0"
+  }
+  
